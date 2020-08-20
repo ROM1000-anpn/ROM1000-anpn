@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### My Qiita Works  
+---  
+**posts:**[![My Qiita posts](https://qiita-badge.apiapi.app/s/rom1000_onigiri/posts.svg)](http://qiita.com/rom1000_onigiri)&emsp;
+**contributions:**[![My Qiita contributions](https://qiita-badge.apiapi.app/s/rom1000_onigiri/contributions.svg)](http://qiita.com/rom1000_onigiri)&emsp;
+**followers:**[![My Qiita followers](https://qiita-badge.apiapi.app/s/rom1000_onigiri/followers.svg)](http://qiita.com/rom1000_onigiri)&emsp;
+
+
 <!--
 **ROM1000-anpn/ROM1000-anpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
